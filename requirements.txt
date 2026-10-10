@@ -1,0 +1,5 @@
+openai>=1.30,<3
+python-dotenv>=1.0,<2
+PyMuPDF>=1.24,<2
+streamlit>=1.36,<2
+tzdata>=2024.1
